@@ -1,0 +1,14 @@
+{
+    "http://malicious-site.com/page1": {
+        "status": "404",
+        "count": 1
+    },
+    "http://blacklisteddomain.com/page3": {
+        "status": "404",
+        "count": 1
+    },
+    "http://malicious-site.com/login": {
+        "status": "404",
+        "count": 1
+    }
+}
